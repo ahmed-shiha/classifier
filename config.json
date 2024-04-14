@@ -1,0 +1,13 @@
+{
+    "BERT_MODEL": "aubmindlab/bert-base-arabertv2",
+    "PRE_TRAINED_MODEL": "assets/model_state_dict.bin",
+    "CLASS_NAMES": [
+        "depression", 
+        "anxiety", 
+        "ocd", 
+        "suicide", 
+        "other", 
+        "normal"
+    ],
+    "MAX_SEQUENCE_LEN": 256
+}
